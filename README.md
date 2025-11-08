@@ -43,21 +43,21 @@
 ### 🎓 Innovating with Google Cloud AI  
 Issued by: Google Cloud & Simplilearn  
 Date: 4th November 2025  
-<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/google-cloud-ai.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/certificates/google-cloud-ai.jpg" width="600"/>
 
 ---
 
 ### 🎓 Get Started with Databricks for Machine Learning  
 Issued by: Databricks & Simplilearn  
 Date: 4th November 2025  
-<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/databricks-ml.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/certificates/databricks-ml.jpg" width="600"/>
 
 ---
 
 ### 🎓 React Dev Tools  
 Issued by: MindLuster  
 Date: 8th November 2025  
-<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/react-dev-tools.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/certificates/react-dev-tools.jpg" width="600"/>
 
 </div>
 
