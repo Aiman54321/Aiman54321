@@ -47,6 +47,22 @@ Date: 4th November 2025
 
 ---
 
+### 🎓 Get Started with Databricks for Machine Learning  
+Issued by: Databricks & Simplilearn  
+Date: 4th November 2025  
+<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/databricks-ml.jpg" width="600"/>
+
+---
+
+### 🎓 React Dev Tools  
+Issued by: MindLuster  
+Date: 8th November 2025  
+<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/react-dev-tools.jpg" width="600"/>
+
+</div>
+
+---
+
 
 
 ## 🌍 Let’s Link Up — Code, Collab or Ideas?  
