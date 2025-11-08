@@ -38,18 +38,13 @@
 
 ## 🏆 Certificates  
 
+<div align="center">
+
 ### 🎓 Innovating with Google Cloud AI  
-<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/certificates/google-cloud-ai.jpg" width="600"/>
+Issued by: Google Cloud & Simplilearn  
+Date: 4th November 2025  
+<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/google-cloud-ai.jpg" width="600"/>
 
----
-
-### 🎓 Get Started with Databricks for Machine Learning  
-<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/certificates/databricks-ml.jpg" width="600"/>
-
----
-
-### 🎓 React Dev Tools  
-<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/certificates/react-dev-tools.jpg" width="600"/>
 ---
 
 
