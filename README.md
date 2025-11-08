@@ -36,6 +36,36 @@
 ![Aiman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman54321&layout=compact&theme=tokyonight&langs_count=6)
 ---
 
+## 🏆 Certificates  
+
+<div align="center">
+
+### 🎓 Innovating with Google Cloud AI  
+Issued by: Google Cloud & Simplilearn  
+Date: 4th November 2025  
+<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/google-cloud-ai.jpg" width="600"/>
+
+---
+
+### 🎓 Get Started with Databricks for Machine Learning  
+Issued by: Databricks & Simplilearn  
+Date: 4th November 2025  
+<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/databricks-ml.jpg" width="600"/>
+
+---
+
+### 🎓 React Dev Tools  
+Issued by: MindLuster  
+Date: 8th November 2025  
+<img src="https://github.com/Aiman54321/Aiman54321/blob/main/certificates/react-dev-tools.jpg" width="600"/>
+
+</div>
+
+---
+Sent
+Write to
+
+
 ## 🌍 Let’s Link Up — Code, Collab or Ideas?  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/Aiman54321)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiman-gani-01a45b303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
