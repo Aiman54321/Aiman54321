@@ -36,31 +36,41 @@
 ![Aiman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman54321&layout=compact&theme=tokyonight&langs_count=6)
 ---
 
-## 🏆 Certifications  
+## 🏆 Certifications
 
-<div align="center">
+### 🎓 Innovating with Google Cloud AI
 
-### 🎓 Innovating with Google Cloud AI  
 Issued by: Google Cloud & Simplilearn  
-Date: 4th November 2025  
-<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/google-cloud-ai.jpg" width="600"/>
+Date: 4th November 2025
 
----
+* * *
 
-### 🎓 Get Started with Databricks for Machine Learning  
+### 🎓 Get Started with Databricks for Machine Learning
+
 Issued by: Databricks & Simplilearn  
-Date: 4th November 2025  
-<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/databricks-ml.jpg" width="600"/>
+Date: 4th November 2025
 
----
+* * *
 
-### 🎓 React Dev Tools  
+### 🎓 React Dev Tools
+
 Issued by: MindLuster  
-Date: 8th November 2025  
-<img src="https://raw.githubusercontent.com/Aiman54321/Aiman54321/main/react-dev-tools.jpg" width="600"/>
+Date: 8th November 2025
 
-</div>
----
+* * *
+
+### 🎓 Python Programming with Web Frameworks (Django & Flask)
+
+Issued by: New Vision Information Technology Limited (NVIT)  
+Duration: 90 Hours  
+Date: 28th October 2025
+
+* * *
+
+### 🎓 AWS Solutions Architecture Job Simulation
+
+Issued by: AWS & Forage  
+Date: 9th November 2025
 
 ## 🌍 Let’s Link Up — Code, Collab or Ideas?  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/Aiman54321)
