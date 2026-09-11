@@ -188,6 +188,11 @@ A simple calculator interface created while practicing HTML structure, CSS layou
 
 **Technologies:** HTML • CSS
 
+**🔗 Links**
+
+- 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
+- 💻 [Source Code](YOUR_REPOSITORY_LINK)
+
 ---
 
 ### 👻 Ghost Buster
@@ -195,6 +200,11 @@ A simple calculator interface created while practicing HTML structure, CSS layou
 A horror-themed experimental web page featuring custom typography, background imagery, navigation elements, and visual effects.
 
 **Technologies:** HTML • CSS
+
+**🔗 Links**
+
+- 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
+- 💻 [Source Code](YOUR_REPOSITORY_LINK)
 
 ---
 
@@ -204,7 +214,13 @@ A small CSS animation experiment exploring 3D transforms, continuous rotation, h
 
 **Technologies:** HTML • CSS
 
+**🔗 Links**
+
+- 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
+- 💻 [Source Code](YOUR_REPOSITORY_LINK)
+
 ---
+
 
 ## 🌱 My Learning Journey
 
