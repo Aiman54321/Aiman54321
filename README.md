@@ -62,162 +62,71 @@
 
 ## 🚀 Featured Projects
 
-A selection of projects I've built while developing my skills in front-end development, JavaScript, interactive UI, and modern web technologies.
+### 🚤 Boga Robotics
+**RoboBoat 2026 autonomous surface vehicle project website**
 
-### 🚤 Boga Robotics — RoboBoat 2026
+- HTML
+- CSS
+- JavaScript
+- Three.js
+- Interactive 3D viewer
 
-A modern robotics website created for a RoboBoat 2026 autonomous surface vehicle project.
-
-The website presents the vehicle, team, development process, system architecture, competition information, media, and project updates.
-
-It also includes interactive search, cinematic image transitions, responsive navigation, and an interactive **3D vehicle viewer powered by Three.js**.
-
-**✨ Highlights**
-
-* 🚤 Robotics project showcase
-* 🔎 Interactive search functionality
-* 🎞️ Dynamic background image transitions
-* 🎮 Interactive 3D vehicle viewer
-* 📱 Responsive navigation and layout
-* 🧩 Structured project, team, development and media sections
-* ⚡ Dynamic functionality using JavaScript
-
-**🛠 Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)
-
-**🔗 Links**
-
-* 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
-* 💻 [Source Code](YOUR_REPOSITORY_LINK)
+🔗 [GitHub Repository](https://github.com/Aiman54321/boga-robotics)  
+🌐 [Live Demo](https://aiman54321.github.io/boga-robotics/)
 
 ---
 
 ### 🎬 Netflix Clone
 
-A Netflix-inspired streaming platform interface created to practice responsive layouts, navigation, content sections, search interfaces, and interactive front-end elements.
+A Netflix-inspired streaming interface built for frontend practice.
 
-**✨ Highlights**
+- HTML
+- CSS
+- JavaScript
+- Interactive UI
+- Search and content sections
 
-* 🎬 Netflix-inspired landing page
-* 🔥 Trending content section
-* 🔍 Search interface
-* 📺 Streaming-style content layout
-* 🎨 Custom responsive UI
-* ⚡ Interactive front-end elements
-
-**🛠 Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-**🔗 Links**
-
-* 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
-* 💻 [Source Code](YOUR_REPOSITORY_LINK)
+🔗 [GitHub Repository](https://github.com/Aiman54321/netflix-clone)  
+🌐 [Live Demo](https://aiman54321.github.io/netflix-clone/)
 
 ---
 
 ### ✊ Rock Paper Scissors
 
-An interactive Rock Paper Scissors game built with vanilla JavaScript.
+Interactive browser game with score tracking and persistent game data.
 
-Players compete against a computer-generated move while their results are tracked throughout the session.
+- HTML
+- CSS
+- JavaScript
+- LocalStorage
+- Interactive game logic
 
-The project uses **LocalStorage** to preserve game statistics between sessions.
-
-**✨ Highlights**
-
-* ✊ Rock, Paper & Scissors gameplay
-* 🤖 Computer-generated moves
-* 🏆 Win, loss and tie tracking
-* 💾 Persistent statistics using LocalStorage
-* 🔄 Reset functionality
-* 💬 Interactive game results
-* 🎨 Custom game interface
-
-**🛠 Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-**🔗 Links**
-
-* 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
-* 💻 [Source Code](YOUR_REPOSITORY_LINK)
+🔗 [GitHub Repository](https://github.com/Aiman54321/rock-paper-scissors)  
+🌐 [Live Demo](https://aiman54321.github.io/rock-paper-scissors/)
 
 ---
 
 ### 🛒 Amazon Clone
 
-A front-end Amazon-inspired e-commerce website created to practice HTML structure, CSS layouts, navigation, hero sections, product categories, and visual design.
+A frontend recreation of an Amazon-style shopping interface.
 
-This project helped me build a strong foundation in front-end web development.
+- HTML
+- CSS
+- Responsive layout
+- UI practice
 
-**✨ Highlights**
-
-* 🛍️ E-commerce-inspired interface
-* 🧭 Navigation bar
-* 🖼️ Hero banner
-* 📦 Product and category sections
-* 🎨 Custom CSS styling
-* 📱 Front-end layout practice
-
-**🛠 Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-**🔗 Links**
-
-* 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
-* 💻 [Source Code](https://github.com/Aiman54321/Amazon-clone-project)
+🔗 [GitHub Repository](https://github.com/Aiman54321/Amazon-clone-project)  
+🌐 [Live Demo](https://aiman54321.github.io/Amazon-clone-project/)
 
 ---
 
 ## 🧪 Other Projects
 
-### 🧮 Calculator
-
-A simple calculator interface created while practicing HTML structure, CSS layouts, and front-end design.
-
-**Technologies:** HTML • CSS
-
-**🔗 Links**
-
-- 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
-- 💻 [Source Code](YOUR_REPOSITORY_LINK)
-
----
-
-### 👻 Ghost Buster
-
-A horror-themed experimental web page featuring custom typography, background imagery, navigation elements, and visual effects.
-
-**Technologies:** HTML • CSS
-
-**🔗 Links**
-
-- 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
-- 💻 [Source Code](YOUR_REPOSITORY_LINK)
-
----
-
-### 🌀 CSS Spinner
-
-A small CSS animation experiment exploring 3D transforms, continuous rotation, hover interactions, and visual effects.
-
-**Technologies:** HTML • CSS
-
-**🔗 Links**
-
-- 🌐 [Live Demo](YOUR_LIVE_DEMO_LINK)
-- 💻 [Source Code](YOUR_REPOSITORY_LINK)
+| Project | Technologies | Demo |
+|---|---|---|
+| 🧮 Calculator | HTML, CSS | [Live Demo](https://aiman54321.github.io/calculator/) |
+| 👻 Ghost Buster | HTML, CSS | [Live Demo](https://aiman54321.github.io/ghost-buster/) |
+| 🌀 CSS Spinner | HTML, CSS | [Live Demo](https://aiman54321.github.io/css-spinner/) |
 
 ---
 
