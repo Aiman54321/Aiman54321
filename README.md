@@ -124,7 +124,7 @@ A frontend recreation of an Amazon-style shopping interface.
 
 | Project | Technologies | Demo |
 |---|---|---|
-| 🧮 Calculator | HTML, CSS | [Live Demo](https://aiman54321.github.io/calculator/) |
+| 🧮 Calculator | HTML, CSS, JavaScript | [Live Demo](https://aiman54321.github.io/calculator/) |
 | 👻 Ghost Buster | HTML, CSS | [Live Demo](https://aiman54321.github.io/ghost-buster/) |
 | 🌀 CSS Spinner | HTML, CSS | [Live Demo](https://aiman54321.github.io/css-spinner/) |
 
