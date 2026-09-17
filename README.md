@@ -73,8 +73,8 @@
 - Three.js
 - Interactive 3D experience
 
-🔗 [GitHub Repository](https://github.com/Aiman54321/boga-robotics)  
-🌐 [Live Demo](https://aiman54321.github.io/boga-robotics/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/boga-robotics)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge)](https://aiman54321.github.io/boga-robotics/)
 
 ---
 
@@ -88,8 +88,8 @@ A Netflix-inspired streaming interface created to practice frontend development 
 - Responsive design
 - Interactive UI
 
-🔗 [GitHub Repository](https://github.com/Aiman54321/netflix-clone)  
-🌐 [Live Demo](https://aiman54321.github.io/netflix-clone/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/netflix-clone)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge)](https://aiman54321.github.io/netflix-clone/)
 
 ---
 
@@ -102,8 +102,8 @@ A frontend recreation of an Amazon-style shopping interface built to practice la
 - Responsive layout
 - UI development
 
-🔗 [GitHub Repository](https://github.com/Aiman54321/Amazon-clone-project)  
-🌐 [Live Demo](https://aiman54321.github.io/Amazon-clone-project/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/Amazon-clone-project)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge)](https://aiman54321.github.io/Amazon-clone-project/)
 
 ---
 
@@ -117,8 +117,8 @@ An interactive browser game featuring game logic, score tracking, and persistent
 - LocalStorage
 - Game logic
 
-🔗 [GitHub Repository](https://github.com/Aiman54321/rock-paper-scissors)  
-🌐 [Live Demo](https://aiman54321.github.io/rock-paper-scissors/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/rock-paper-scissors)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge)](https://aiman54321.github.io/rock-paper-scissors/)
 
 ---
 
@@ -133,7 +133,8 @@ A responsive task management application built with vanilla JavaScript and brows
 - LocalStorage
 - Task management
 
-🔗 [GitHub Repository](https://github.com/Aiman54321/daily-todo-list)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/daily-todo-list)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge)](https://aiman54321.github.io/daily-todo-list/)
 
 ---
 
@@ -150,7 +151,8 @@ A frontend authentication project demonstrating registration, login, validation,
 
 > ⚠️ This project is a frontend learning demonstration and is not intended to represent production-grade authentication.
 
-🔗 [GitHub Repository](YOUR-AUTHENTICATION-REPOSITORY-LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiman54321/A-javascript-authentication-demo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge)](https://aiman54321.github.io/A-javascript-authentication-demo/)
 
 ---
 
