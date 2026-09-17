@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I’m Aiman</h1>
+<h1 align="center">Hi, I’m Aiman</h1>
 
 <p align="center">
   <strong>Full-Stack Developer in Progress • CS Student • Tech Enthusiast</strong>
@@ -159,7 +159,6 @@ A frontend authentication project demonstrating registration, login, validation,
 | Project | Technologies | Demo |
 |---|---|---|
 | 🧮 Calculator | HTML, CSS, JavaScript | [Live Demo](https://aiman54321.github.io/calculator/) |
-| 👻 Ghost Buster | HTML, CSS | [Live Demo](https://aiman54321.github.io/ghost-buster/) |
 | 🌀 CSS Spinner | HTML, CSS | [Live Demo](https://aiman54321.github.io/css-spinner/) |
 
 ---
