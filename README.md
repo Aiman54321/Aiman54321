@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Aiman</h1>
+<h1 align="center">Greetings, I’m Aiman</h1>
 
 <p align="center">
   <strong>Full-Stack Developer in Progress • CS Student • Tech Enthusiast</strong>
