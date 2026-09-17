@@ -19,23 +19,23 @@
 
 ---
 
-## 🚀 What I'm Up To
+## ⟡ What I'm Up To
 
-- 🔨 Building projects with **HTML, CSS, JavaScript & Python**
-- ⚡ Strengthening my **JavaScript and frontend development** skills
-- ⚛️ Currently learning **React**
-- 🐍 Exploring **Django and backend development**
-- 📊 Exploring **Power BI and data analytics**
-- 🌐 Learning how to work with **APIs and databases**
-- ☁️ Preparing to explore **AWS and Docker**
-- 🧠 Continuously improving my **problem-solving and development skills**
-- 🌱 Learning by **building, experimenting, and shipping projects**
+- Building projects with **HTML, CSS, JavaScript & Python**
+- Strengthening my **JavaScript and frontend development** skills
+- Currently learning **React**
+- Exploring **Django and backend development**
+- Exploring **Power BI and data analytics**
+- Learning how to work with **APIs and databases**
+- Preparing to explore **AWS and Docker**
+- Continuously improving my **problem-solving and development skills**
+- Learning by **building, experimenting, and shipping projects**
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧠 Current Skills
+### Current Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,13 +46,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🛠️ Currently Learning
+### Currently Learning
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🚀 Exploring Next
+### Exploring Next
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🗂️ Featured Projects
 
 ### 🚤 Boga Robotics
 
